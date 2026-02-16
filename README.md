@@ -23,14 +23,6 @@
 
 </div>
 
----
-
-### 🔥 Currently Obsessed With
-
-**AI-Chatbot-with-Multi-API-Integration**  
-OpenAI-powered intelligent agent that routes requests to the right backend APIs (orders, patients, payments, labs…), aggregates results, and responds in natural, context-aware English. Real product energy — not just a wrapper.
-
-→ [Check it out →](https://github.com/ishpatel21/AI-Chatbot-with-Multi-API-Integration)
 
 ---
 
@@ -53,7 +45,6 @@ OpenAI-powered intelligent agent that routes requests to the right backend APIs 
 
 ---
 
-<div align="center">
 
 ### 🌐 Let's Build Something Insane
 
@@ -65,6 +56,5 @@ OpenAI-powered intelligent agent that routes requests to the right backend APIs 
 
 
 **Always shipping. Always iterating. AI-first mindset.**  
-Made with ☕ + code + a touch of chaos in Georgia 🚀
+*Made with ☕ + code + a touch of chaos in Georgia 🚀*
 
-</div>
