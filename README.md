@@ -1,20 +1,38 @@
 <div align="center">
-  <h1>Hey, I'm Ishan 👋</h1>
-  <h3>Versatile software engineer crafting next-level products with AI at the core 🚀</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ishan+👋;Versatile+Software+Engineer;AI-Powered+Product+Builder+🚀" alt="Typing SVG" />
   
-  <p>
-    <strong>Cumming, GA • Building intelligent tools that actually ship</strong>
-  </p>
+  <br/>
+  
+  <h3>
+    Building intelligent, real-world products with AI at the core.<br/>
+    From chaotic bots to production-grade AI tools — I ship fast and break smart.
+  </h3>
 
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,cs,unity,aws,html,css,spring,dotnet&perline=10" />
+  <br/>
+
+  <!-- Tech stack icons - feels premium -->
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,spring,aws,html,css,dotnet,unity,cs,git,linux&perline=8" alt="Tech Stack" />
+
+  <br/><br/>
+
+  <!-- Badges / shields for flair -->
+  <a href="https://github.com/ishpatel21?tab=repositories">
+    <img src="https://img.shields.io/badge/8%20Public%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Cumming%2C%20GA-blue?style=for-the-badge" alt="Location"/>
+
 </div>
 
 ---
 
-### 🔥 Currently Building
+### 🔥 Currently Obsessed With
 
 **AI-Chatbot-with-Multi-API-Integration**  
-A smart OpenAI-powered chatbot that automatically figures out which APIs to call (orders, payments, patients, labs, etc.), aggregates the data, and replies in natural, friendly language. Real AI product energy.
+OpenAI-powered intelligent agent that routes requests to the right backend APIs (orders, patients, payments, labs…), aggregates results, and responds in natural, context-aware English. Real product energy — not just a wrapper.
+
+→ [Check it out →](https://github.com/ishpatel21/AI-Chatbot-with-Multi-API-Integration)
+
+---
 
 ### 🚀 Featured Projects
 
@@ -27,18 +45,26 @@ A smart OpenAI-powered chatbot that automatically figures out which APIs to call
 
 ---
 
-### 📊 GitHub Stats
+---
 
-![Ishan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishpatel21&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishpatel21&layout=compact&theme=radical&hide_border=true)
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/ishpate)
 
 ---
 
+<div align="center">
+
 ### 🌐 Let's Build Something Insane
 
+- **X** → [@ish34patel](https://x.com/ish34patel)  
+- **Email** → ishanpatel21@gmail.com
 - **Open to** → AI product collabs, open-source contributions, or just nerding out about LLMs
 
 ---
 
-**Made with ☕, code, and a little bit of chaos in Georgia**  
-*Always shipping. Always learning. Always AI-first.*
+
+**Always shipping. Always iterating. AI-first mindset.**  
+Made with ☕ + code + a touch of chaos in Georgia 🚀
+
+</div>
