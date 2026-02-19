@@ -5,27 +5,10 @@
   
   <h3>
     Building intelligent, real-world products with AI at the core.<br/>
-    From chaotic bots to production-grade AI tools — I ship fast and break smart.
   </h3>
 
-
   <!-- Tech stack icons - feels premium -->
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
-  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+ 
 </div>
   <br/>
 
@@ -44,9 +27,80 @@
 
 ---
 
+### 💼 Work Experience
+
+<table>
+<tr>
+<td>
+
+### 🏥 Cigna / Express Scripts (Contract via Insight Global)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Senior Software Engineer** | *April 2021 — Present*
+> **Tech Stack:** `AWS` • `TypeScript` • `Node` • `React`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+### 🚗 General Motors
+**Software Engineer** | *August 2016 — April 2021*
+> **Tech Stack:** `Azure` • `Java` • `JavaScript` • `Angular` • `Spring Boot`
+
+</td>
+</tr>
+</table>
+
 ---
 
-## GitHub Activity
+### 🎓 Education
+
+<table>
+<tr>
+<td>
+
+### B.S. in Computer Science
+**East Tennessee State University** | *Johnson City, TN* | | *August 2010 — December 2015*
+> **Location:** Johnson City, TN
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Skills & Expertise
+
+<p align="left">
+  Languages & Frameworks </br>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  <br/> <br/>Cloud & DevOps <br/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <br/> <br/>Back End & Databases <br/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <br/> <br/>Tools & Monitoring <br/>
+  <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/-Swagger-%23C1E1C1?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+---
+
+### 📈 GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/ishpatel21)
 
@@ -56,7 +110,7 @@
 ### 🌐 Let's Build Something Insane
 
 - **X** → [@ish34patel](https://x.com/ish34patel)  
-- **Email** → ishanpatel21@gmail.com
+- **LinkedIn** → [@ishanpatel21](https://www.linkedin.com/in/ishanpatel21/)
 - **Open to** → AI product collabs, open-source contributions, or just nerding out about LLMs
 
 ---
