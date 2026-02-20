@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Featured Projects
-
+- **[Loom-Sync](https://github.com/ishpatel21/Loom-Sync)** → A local-first productivity engine using SQLite (WASM) and CRDTs for zero-latency, offline-capable, and conflict-free real-time synchronization.
 - **[Resume Job Tailor](https://github.com/ishpatel21/Resume-Job-Tailor)** → Upload resume + job description → instant match score + AI tips to tailor it fast. (Python)
 - **[Personal PDF RAG Chatbot](https://github.com/ishpatel21/Personal-PDF-Chat-Knowledge-Base-Simple-RAG-)** → Chat with your PDFs. Get instant answers with citations. (Python)  
 - **[AI-Chatbot-with-Multi-API-Integration](https://github.com/ishpatel21/AI-Chatbot-with-Multi-API-Integration)** → OpenAI GPT + dynamic multi-API routing (Python)  
